@@ -11,13 +11,13 @@ Microsoft Store→Install "Python" lastest version→Powershell→
 ```
 cd Documents
 python3 [].py
-'''
+```
 [] → name given when saving the game
 #### [Mac,Linux]
 Terminal→
 ```
 cd Documents
 python3 [].py
-'''
+```
 [] → name given when saving the game
 
