@@ -1,4 +1,4 @@
-# PythonGame <Japanese>
+# PythonGame_Japanese
 Collection of my games only with standard Python modules.
 # How to play.
 You can select any game that you like from the games listed above.
